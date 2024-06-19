@@ -7,13 +7,13 @@ ChecklistRx uses the checklists items from one card to create new cards use to d
 
 1. Setting values like due dates and assignees will carry through automatically to the generated card, as well as the first feature assigned to the originating card.
 
-![ChecklistRx button on card menu](./assets/img/checklist2a.png)
+![ChecklistRx button on card menu](./implement-docs/assets/img/checklist2a.png)
 
 Access the ChecklistRx option using the button on the card tools menu.
 
 ## Configure Card Creation
 
-![Use ChecklistRx to configure card creation](./assets/img/checklist2b.png)![Use ChecklistRx to configure card creation](/assets/img/checklist2c.png)
+![Use ChecklistRx to configure card creation](./implement-docs/assets/img/checklist2b.png)![Use ChecklistRx to configure card creation](/assets/img/checklist2c.png)
 
 The tool provides an interface to select which checklist items should be used to generate new cards and configure information to be populated on the new cards as follows:
 
